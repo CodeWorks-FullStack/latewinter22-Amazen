@@ -1,0 +1,60 @@
+
+{
+  "folders": [
+    {
+      "path": "amaZen.client",
+      "name": "client"
+    },
+    {
+      "path": "amaZen",
+      "name": "server"
+    }
+  ],
+  "settings": {
+    "editor.suggestSelection": "first",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "javascript.referencesCodeLens.enabled": true,
+    "javascript.referencesCodeLens.showOnAllFunctions": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.enabled": true,
+    "typescript.referencesCodeLens.showOnAllFunctions": true,
+    "js/ts.implicitProjectConfig.checkJs": true,
+    "files.exclude": {
+      "**/.nyc_*": true,
+      "**/coverage": true,
+      "**/node_modules": true
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "vetur.format.defaultFormatter.js": "vscode-typescript",
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "eslint.codeActionsOnSave.mode": "all",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#ecd0d4",
+      "activityBar.activeBorder": "#4e9f40",
+      "activityBar.background": "#ecd0d4",
+      "activityBar.foreground": "#15202b",
+      "activityBar.inactiveForeground": "#15202b99",
+      "activityBarBadge.background": "#4e9f40",
+      "activityBarBadge.foreground": "#e7e7e7",
+      "sash.hoverBorder": "#ecd0d4",
+      "statusBar.background": "#ddacb3",
+      "statusBar.foreground": "#15202b",
+      "statusBarItem.hoverBackground": "#ce8892",
+      "statusBarItem.remoteBackground": "#ddacb3",
+      "statusBarItem.remoteForeground": "#15202b",
+      "titleBar.activeBackground": "#ddacb3",
+      "titleBar.activeForeground": "#15202b",
+      "titleBar.inactiveBackground": "#ddacb399",
+      "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#ddacb3"
+  }
+}
